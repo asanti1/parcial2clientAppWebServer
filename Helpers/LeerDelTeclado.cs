@@ -6,7 +6,7 @@ public class LeerDelTeclado
 {
     public static string LeerString(string mensaje)
     {
-        Console.Write(mensaje);
+        Console.WriteLine(mensaje);
         string input = Console.ReadLine();
         return string.IsNullOrEmpty(input) ? null : input;
     }
