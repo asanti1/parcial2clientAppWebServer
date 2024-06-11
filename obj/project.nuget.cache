@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S63T8RRyCNw84/2J78PQkl+YutPYUdcy+t4V9ZYqON0kyIIUOk99bGEmKLv1xVjtK2r7pi31CoRadr8rFeihmg==",
+  "success": true,
+  "projectFilePath": "/home/dust/Programacion/segParAgustinSantinaqueCliente/segParAgustinSantinaqueCliente.csproj",
+  "expectedPackageFiles": [
+    "/home/dust/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/dust/.nuget/packages/restsharp/111.2.0/restsharp.111.2.0.nupkg.sha512",
+    "/home/dust/.nuget/packages/restsharp.serializers.newtonsoftjson/111.2.0/restsharp.serializers.newtonsoftjson.111.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
